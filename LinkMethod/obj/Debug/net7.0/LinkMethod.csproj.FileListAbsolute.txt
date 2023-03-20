@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\bin\Debug\net7.0\LinkMethod.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\bin\Debug\net7.0\LinkMethod.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\bin\Debug\net7.0\LinkMethod.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\bin\Debug\net7.0\LinkMethod.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\bin\Debug\net7.0\LinkMethod.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\LinkMethod.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\LinkMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\LinkMethod.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\LinkMethod.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\LinkMethod.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\LinkMethod.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\refint\LinkMethod.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\LinkMethod.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\LinkMethod.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkMethod\obj\Debug\net7.0\ref\LinkMethod.dll

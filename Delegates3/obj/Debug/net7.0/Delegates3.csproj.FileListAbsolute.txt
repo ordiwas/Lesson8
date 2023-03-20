@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\bin\Debug\net7.0\Delegates3.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\bin\Debug\net7.0\Delegates3.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\bin\Debug\net7.0\Delegates3.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\bin\Debug\net7.0\Delegates3.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\bin\Debug\net7.0\Delegates3.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\Delegates3.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\Delegates3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\Delegates3.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\Delegates3.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\Delegates3.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\Delegates3.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\refint\Delegates3.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\Delegates3.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\Delegates3.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Delegates3\obj\Debug\net7.0\ref\Delegates3.dll

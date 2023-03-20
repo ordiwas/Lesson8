@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\bin\Debug\net7.0\Multiclass.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\bin\Debug\net7.0\Multiclass.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\bin\Debug\net7.0\Multiclass.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\bin\Debug\net7.0\Multiclass.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\bin\Debug\net7.0\Multiclass.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\Multiclass.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\Multiclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\Multiclass.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\Multiclass.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\Multiclass.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\Multiclass.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\refint\Multiclass.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\Multiclass.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\Multiclass.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\Multiclass\obj\Debug\net7.0\ref\Multiclass.dll

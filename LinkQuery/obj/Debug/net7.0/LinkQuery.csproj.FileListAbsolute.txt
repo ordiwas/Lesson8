@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\bin\Debug\net7.0\LinkQuery.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\bin\Debug\net7.0\LinkQuery.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\bin\Debug\net7.0\LinkQuery.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\bin\Debug\net7.0\LinkQuery.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\bin\Debug\net7.0\LinkQuery.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\LinkQuery.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\LinkQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\LinkQuery.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\LinkQuery.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\LinkQuery.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\LinkQuery.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\refint\LinkQuery.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\LinkQuery.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\LinkQuery.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson8\LinkQuery\obj\Debug\net7.0\ref\LinkQuery.dll
